@@ -4,7 +4,7 @@
   "description": "code scratchpad",
   "type": "module",
   "author": "Skylar Brown",
-  "license": "ISC",
+  "license": "MIT",
   "main": "src/main.ts",
   "scripts": {
     "down": "docker compose down",
